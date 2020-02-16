@@ -10,6 +10,7 @@ __Generate diagrams, charts, graphs or flows from markdown-like text via javascr
 See our [documentation](http://mermaid-js.github.io/mermaid/) and start simplifying yours. Play in our [live editor](https://mermaidjs.github.io/mermaid-live-editor/) or jump straight to the [installation and usage](http://mermaid-js.github.io/mermaid/#/usage).
 <!-- </Main description> -->
 
+
 :trophy: _"The most exciting use of technology"_ - [JS Open Source Awards (2019)](https://osawards.com/javascript/#nominees)
 
 <table>
@@ -133,7 +134,7 @@ Crash --> [*]
 pie
 "Dogs" : 386
 "Cats" : 85
-"Rats" : 15 
+"Rats" : 15
 </pre></td>
     <td align="center">
         <img src="https://raw.githubusercontent.com/mermaid-js/mermaid/master/img/gray-pie.png" />
@@ -151,7 +152,7 @@ pie
 <!-- </Git> -->
 </table>
 
-## Related projects 
+## Related projects
 
 - [Command Line Interface](https://github.com/mermaid-js/mermaid.cli)
 - [Live Editor](https://github.com/mermaid-js/mermaid-live-editor)
