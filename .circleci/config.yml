@@ -35,6 +35,9 @@ jobs:
 
       # run tests!
       - run: yarn test
-      
+
+      # run tests!
+      - run: yarn build
+
       # run tests!
       - run: yarn e2e
